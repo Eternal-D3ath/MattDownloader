@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mpcqvje1-2f4m6zp5",
+  "source_url": "https://dhruvmirrorpremium0-9d786801cf0f.herokuapp.com/83546/SolNegre+-+The+Axiom+-+Song+for+the+Inert.+Part+2.mp3?hash=AgADd5",
+  "created_at_utc": "2026-05-19T14:45:28Z",
+  "mode": "single",
+  "total_size_bytes": 21747645,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mpcqvje1-2f4m6zp5/file.bin",
+  "chunks_path_prefix": "jobs/job-mpcqvje1-2f4m6zp5/chunks/chunk_",
+  "suggested_filename": "SolNegre_-_The_Axiom_-_Song_for_the_Inert._Part_2.mp3"
+}
