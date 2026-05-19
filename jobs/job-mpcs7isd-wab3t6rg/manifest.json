@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mpcs7isd-wab3t6rg",
+  "source_url": "http://dl4.downlaodhaa.net/jsdl26/Disenchanted.2022.720p.WEB-DL.Farsi.Dubbed.mkv?md5=SvDv9aoB46043X7cURBo3g&expires=1779218521",
+  "created_at_utc": "2026-05-19T15:23:29Z",
+  "mode": "chunked",
+  "total_size_bytes": 1203535519,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 13,
+  "single_file_path": "jobs/job-mpcs7isd-wab3t6rg/file.bin",
+  "chunks_path_prefix": "jobs/job-mpcs7isd-wab3t6rg/chunks/chunk_",
+  "suggested_filename": "Disenchanted.2022.720p.WEB-DL.Farsi.Dubbed.mkv"
+}
